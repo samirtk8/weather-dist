@@ -2,8 +2,9 @@ package com.crossover.trial.weather;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
-import javax.ws.rs.client.WebTarget;
 import java.io.*;
+import javax.ws.rs.client.WebTarget;
+
 
 /**
  * A simple airport loader which reads a file from disk and sends entries to the webservice
