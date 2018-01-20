@@ -18,6 +18,8 @@ public class AirportLoader {
     /** end point for read queries */
     /** end point for read queries */
     /** end point for read queries */
+    /** end point for read queries */
+    /** end point for read queries */
     private WebTarget query;
 
     /** end point to supply updates */
